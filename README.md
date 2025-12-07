@@ -35,7 +35,8 @@ From there, the project expanded into **generative 3D-printed drone frames**, de
 ## 👨‍💻 Contributors:
 
 Special thanks to :  
-- [jolian]()
+
+- **Jolian Wassof** [LinkedIn](https://www.linkedin.com/in/jolian-wassof-85512b375/) 
 
 ---
 
